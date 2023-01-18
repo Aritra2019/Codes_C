@@ -1,2 +1,2 @@
-# Codes_C
+# C_Codes
 C programming
